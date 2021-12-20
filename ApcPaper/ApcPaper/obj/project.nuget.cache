@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6I0GLFclfwQD+7mFeYdPDo4Cz3osDvy6pokU5TzJZhe4pJOHGJd5BX1bJY93zv+RT97VJZaiuq8nPcBgtgbQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Damma\\Documents\\GitHub\\APC_Paper\\ApcPaper\\ApcPaper\\ApcPaper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Damma\\.nuget\\packages\\xamarin.forms\\5.0.0.2244\\xamarin.forms.5.0.0.2244.nupkg.sha512"
+  ],
+  "logs": []
+}

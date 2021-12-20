@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Damma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Damma\\.nuget\\packages"
+    ]
+  }
+}
